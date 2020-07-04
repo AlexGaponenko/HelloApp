@@ -10,7 +10,7 @@ namespace HelloApp
             String Name1 = Console.ReadLine();
             Console.WriteLine($"Привет {Name1}");
             Console.ReadKey();
-            Console.WriteLine("Новая фича");
+            Console.WriteLine("Старая штучка");
         }
     }
 }
