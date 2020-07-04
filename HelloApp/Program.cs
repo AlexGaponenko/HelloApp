@@ -7,8 +7,8 @@ namespace HelloApp
         static void Main(string[] args)
         {
             Console.Write ("введите имя ");
-            String Name = Console.ReadLine();
-            Console.WriteLine($"Привет {Name}");
+            String Name1 = Console.ReadLine();
+            Console.WriteLine($"Привет {Name1}");
             Console.ReadKey();
         }
     }
