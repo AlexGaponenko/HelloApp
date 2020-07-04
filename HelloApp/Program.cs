@@ -15,6 +15,7 @@ namespace HelloApp
             {
                 Console.WriteLine(i);
             }
+            //Комит в удалённый репозиторий
             Console.WriteLine("Новая штука");
         }
     }
