@@ -10,7 +10,13 @@ namespace HelloApp
             String Name1 = Console.ReadLine();
             Console.WriteLine($"Привет {Name1}");
             Console.ReadKey();
-            Console.WriteLine("Новая штука");
+          
+            int [ ] m = new int[] {10, 20, 30, 40}:
+            foreach (int i in m) 
+            {
+                Console.WriteLine(i);
+            }
+                Console.WriteLine("Новая штука");
         }
     }
 }
